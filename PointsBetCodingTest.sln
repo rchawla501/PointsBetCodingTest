@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsBet.StringClassLibrary", "PointsBet.StringClassLibrary\PointsBet.StringClassLibrary.csproj", "{BD14A12D-B69D-42B7-93CC-BDB9DE1E99AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointsBet.TestProject", "PointsBet.TestProject\PointsBet.TestProject.csproj", "{2FDB5403-C2A8-444B-92AA-8F933C9B7F3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD14A12D-B69D-42B7-93CC-BDB9DE1E99AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD14A12D-B69D-42B7-93CC-BDB9DE1E99AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD14A12D-B69D-42B7-93CC-BDB9DE1E99AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD14A12D-B69D-42B7-93CC-BDB9DE1E99AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FDB5403-C2A8-444B-92AA-8F933C9B7F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FDB5403-C2A8-444B-92AA-8F933C9B7F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FDB5403-C2A8-444B-92AA-8F933C9B7F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FDB5403-C2A8-444B-92AA-8F933C9B7F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D11F97-9FD0-43BA-B52E-68A75B5831A8}
+	EndGlobalSection
+EndGlobal
