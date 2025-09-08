@@ -118,7 +118,6 @@ namespace PointsBet.TestProject
         }
 
 
-
         #region LargeArray Test Cases
         //const int largeArraySize = 9000000;
         //string[] largeItems = new string[largeArraySize];
@@ -147,20 +146,7 @@ namespace PointsBet.TestProject
 
         //    //Assert
         //    Assert.AreEqual(largeItemsResult, result, true);
-        //}
-
-        //[TestMethod]
-        //public void StringFormatterWithLargeArrayWithStringBuilder()
-        //{
-        //    //Arrange       
-        //    string quote = "\""; // Use only double quote delimiter for large arrays, as large array result is generated using docuble quotes.
-
-        //    //Act
-        //    var result = StringFormatter.ToCommaSeparatedListWithStringBuilder(largeItems, quote);
-
-        //    //Assert
-        //    Assert.AreEqual(largeItemsResult, result, true);
-        //} 
+        //}      
         #endregion
     }
 }
